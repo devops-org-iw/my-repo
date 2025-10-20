@@ -1,2 +1,2 @@
 # my-repo
-Fun repo
+Fun repo, so fun.
